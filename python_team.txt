@@ -1,6 +1,6 @@
 team: Python
 
-manager: Jack
+manager: Melody
 
 members: Juli
 
