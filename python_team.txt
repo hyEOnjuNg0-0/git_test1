@@ -7,3 +7,5 @@ members: Juli
 members: Jack
 
 members: Yang
+
+members: Chae
