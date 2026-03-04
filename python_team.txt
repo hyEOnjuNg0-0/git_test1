@@ -9,3 +9,5 @@ members: Jack
 members: Yang
 
 members: Chae
+
+friend: Pochaco
